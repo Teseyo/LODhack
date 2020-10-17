@@ -1,0 +1,7 @@
+{
+  "name": "leadersofdigital",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
